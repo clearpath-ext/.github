@@ -50,7 +50,7 @@ No data collected. No server. No login. Everything stays in your browser.
 |---|---|
 | [clearpath-extension](https://github.com/clearpath-ext/clearpath-extension) | The main browser extension (Chrome + Firefox) |
 | [clearpath-symbols](https://github.com/clearpath-ext/clearpath-symbols) | Open symbol library and word-to-symbol index |
-| [clearpath-web](https://github.com/clearpath-ext/clearpath-web) | Project website and documentation (GitHub Pages) |
+| [clearpath-web](https://github.com/clearpath-ext/clearpath-web) | Project website and documentation — [clearpathext.com](https://clearpathext.com) |
 | [.github](https://github.com/clearpath-ext/.github) | Org-wide community health files and this profile |
 
 ---
