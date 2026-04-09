@@ -32,18 +32,21 @@ ClearPath is a browser extension that transforms any webpage into something a pe
 
 ClearPath bridges that gap — directly in the browser, on any site, with no account required.
 
-**Shipped features (v0.5.0):**
-- 🔊 **Read Aloud** — Text-to-speech with word-by-word highlighting, built into every page
-- 🧠 **Simplify** — Rewrites selected text at a plain language reading level using an LLM
-- 📖 **Reading Mode** — Strips clutter, applies dyslexia-friendly fonts, customizable typography
-- 🎯 **Focus Tools** — Reading ruler, paragraph dimming, and word complexity highlighting
-- 🖼️ **Symbol Overlay** — Displays AAC pictogram symbols above words (powered by the open ARASAAC library)
-- 👤 **Profiles** — Save and share accessibility settings (great for SLPs configuring for clients)
-
-**Coming next:**
-- 📚 **Vocabulary Support** *(Phase 6)* — Double-click any word for an instant plain-English definition; fully offline, powered by Simple English Wiktionary data
-
 No data collected. No server. No login. Everything stays in your browser.
+
+---
+
+## Roadmap
+
+| Phase | Feature | Status |
+|---|---|---|
+| 1 | 🔊 **Read Aloud** — TTS with word-by-word highlighting | ✅ v0.1.0 |
+| 2 | 🧠 **Simplify** — Plain language rewriting via LLM | ✅ v0.2.0 |
+| 3 | 📖 **Reading Mode** — Clutter-free view, dyslexia-friendly fonts, custom typography | ✅ v0.3.0 |
+| 4 | 🎯 **Focus Tools** — Reading ruler, paragraph dimming, word complexity | ✅ v0.4.0 |
+| 5 | 🖼️ **Symbol Overlay + Profiles** — AAC pictogram symbols; save & share settings | ✅ v0.5.0 |
+| 6 | 📚 **Vocabulary Support** — Double-click definitions, fully offline (Simple English Wiktionary) | 🗓 planned |
+| 7 | ✨ **Polish** — WCAG audit, Firefox, onboarding, Chrome & Firefox store launch | 🗓 planned |
 
 ---
 
