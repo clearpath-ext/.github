@@ -32,13 +32,16 @@ ClearPath is a browser extension that transforms any webpage into something a pe
 
 ClearPath bridges that gap — directly in the browser, on any site, with no account required.
 
-**Core features:**
+**Shipped features (v0.5.0):**
 - 🔊 **Read Aloud** — Text-to-speech with word-by-word highlighting, built into every page
 - 🧠 **Simplify** — Rewrites selected text at a plain language reading level using an LLM
 - 📖 **Reading Mode** — Strips clutter, applies dyslexia-friendly fonts, customizable typography
-- 🖼️ **Symbol Overlay** — Displays AAC-style symbols above words (powered by the open ARASAAC library)
 - 🎯 **Focus Tools** — Reading ruler, paragraph dimming, and word complexity highlighting
+- 🖼️ **Symbol Overlay** — Displays AAC pictogram symbols above words (powered by the open ARASAAC library)
 - 👤 **Profiles** — Save and share accessibility settings (great for SLPs configuring for clients)
+
+**Coming next:**
+- 📚 **Vocabulary Support** *(Phase 6)* — Double-click any word for an instant plain-English definition; fully offline, powered by Simple English Wiktionary data
 
 No data collected. No server. No login. Everything stays in your browser.
 
@@ -49,7 +52,6 @@ No data collected. No server. No login. Everything stays in your browser.
 | Repo | Description |
 |---|---|
 | [clearpath-extension](https://github.com/clearpath-ext/clearpath-extension) | The main browser extension (Chrome + Firefox) |
-| [clearpath-symbols](https://github.com/clearpath-ext/clearpath-symbols) | Open symbol library and word-to-symbol index |
 | [clearpath-web](https://github.com/clearpath-ext/clearpath-web) | Project website and documentation — [clearpathext.com](https://clearpathext.com) |
 | [.github](https://github.com/clearpath-ext/.github) | Org-wide community health files and this profile |
 
