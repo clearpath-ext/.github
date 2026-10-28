@@ -12,7 +12,8 @@ The **C-path mark** is the official ClearPath logo: a C that starts at a dot and
 | `clearpath-icon.svg` | **Icon master.** The mark centred on the navy rounded tile. Favicons, the extension icon, avatars. |
 | `clearpath-mark.png` | Transparent PNG (465×512) for places that can't take SVG. |
 | `clearpath-icon-1024.png`, `clearpath-icon-512.png` | Large icon renders (store listings, app launchers). |
-| `clearpath-icon-400.png` | Avatars: GitHub org, Gmail signature, Discord. |
+| `clearpath-avatar-500.png` | Full-bleed square on navy for avatars that apply their own rounding (GitHub org, LinkedIn, Discord). |
+| `clearpath-icon-400.png` | Rounded tile on transparent, for places that show the image as-is (Gmail signature, docs). |
 
 On navy backgrounds the mark can take a soft blue/mint glow (see the social template). It doesn't need one on white.
 
