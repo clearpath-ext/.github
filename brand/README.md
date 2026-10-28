@@ -25,7 +25,7 @@ On navy backgrounds the mark can take a soft blue/mint glow (see the social temp
 
 | File | Size | Use |
 | --- | --- | --- |
-| `social/og-image-1200x630.png` | 1200×630 (rendered at 2×) | Link previews for clearpathext.com (the site's `og.png`) |
+| `social/og-image-1200x630.png` | 2400×1260 (2× render of the 1200×630 card) | Source for link previews. The site serves a 1200×630 downscale as `og.png?v=N`: LinkedIn rejected the 2× file, and it caches by URL, so bump `v` whenever the card changes. |
 
 Its HTML source is in `social/templates/`. To change it, edit the HTML and re-render it at the listed size with a headless browser (Chromium/Playwright screenshot of the page, opened from the file so the relative SVG path resolves). The template loads DM Serif Display and DM Sans from Google Fonts.
 
