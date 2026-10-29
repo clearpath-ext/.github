@@ -9,7 +9,7 @@ The **C-path mark** is the official ClearPath logo: a C that starts at a dot and
 | File | What it's for |
 | --- | --- |
 | `clearpath-mark.svg` | **Master.** The mark on its own, transparent, sharp at any size. Works on navy and on white. Edit this file (and `clearpath-icon.svg`), then regenerate everything else. |
-| `clearpath-icon.svg` | **Icon master.** The mark centred on the navy rounded tile. Favicons, the extension icon, avatars. |
+| `clearpath-icon.svg` | **Icon master.** The mark centered on the navy rounded tile. Favicons, the extension icon, avatars. |
 | `clearpath-mark.png` | Transparent PNG (465×512) for places that can't take SVG. |
 | `clearpath-icon-1024.png`, `clearpath-icon-512.png` | Large icon renders (store listings, app launchers). |
 | `clearpath-avatar-500.png` | Full-bleed square on navy for avatars that apply their own rounding (GitHub org, LinkedIn, Discord). |
@@ -29,7 +29,7 @@ On navy backgrounds the mark can take a soft blue/mint glow (see the social temp
 
 Its HTML source is in `social/templates/`. To change it, edit the HTML and re-render it at the listed size with a headless browser (Chromium/Playwright screenshot of the page, opened from the file so the relative SVG path resolves). The template loads DM Serif Display and DM Sans from Google Fonts.
 
-## Colours
+## Colors
 
 These match the website's Tailwind tokens.
 
