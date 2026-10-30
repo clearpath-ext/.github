@@ -13,13 +13,13 @@
 
   <p>
     <a href="https://github.com/clearpath-ext/clearpath-extension">
-      <img src="https://img.shields.io/badge/Extension-Install-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install Extension"/>
+      <img src="https://raw.githubusercontent.com/clearpath-ext/.github/main/profile/badges/extension-install.svg" alt="Install Extension"/>
     </a>
     <a href="https://github.com/clearpath-ext/clearpath-extension/blob/main/CONTRIBUTING.md">
-      <img src="https://img.shields.io/badge/Contributions-Welcome-7BC8A4?style=for-the-badge" alt="Contributions Welcome"/>
+      <img src="https://raw.githubusercontent.com/clearpath-ext/.github/main/profile/badges/contributions-welcome.svg" alt="Contributions Welcome"/>
     </a>
     <a href="https://github.com/clearpath-ext/clearpath-extension/blob/main/LICENSE">
-      <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" alt="MIT License"/>
+      <img src="https://raw.githubusercontent.com/clearpath-ext/.github/main/profile/badges/license-mit.svg" alt="MIT License"/>
     </a>
   </p>
 </div>
