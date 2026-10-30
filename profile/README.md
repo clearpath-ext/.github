@@ -34,7 +34,7 @@ ClearPath bridges that gap — directly in the browser, on any site, with no acc
 
 No data collected. No server. No login. Everything stays in your browser.
 
-**Try it:** [download the latest release](https://github.com/clearpath-ext/clearpath-extension/releases/latest/download/clearpath-chrome.zip) for Chrome, Edge, Brave, Arc or Opera, and follow the [one-minute install steps](https://clearpathext.com/install/#install-download). The Chrome Web Store listing is coming soon; Firefox follows after Chrome.
+**Try it:** [download the latest release](https://github.com/clearpath-ext/clearpath-extension/releases/latest/download/clearpath-chrome.zip) for Chrome, Edge, Brave, Arc or Opera, and follow the [one-minute install steps](https://clearpathext.com/install/#install-download). The Chrome Web Store listing is planned for v1.0, and Firefox follows after that. See the full [roadmap](https://clearpathext.com/roadmap/).
 
 ---
 
@@ -49,9 +49,9 @@ No data collected. No server. No login. Everything stays in your browser.
 | 5 | **Symbol Overlay + Profiles**: AAC pictogram symbols; save and share settings | ✅ v0.5.0 |
 | 6 | **Vocabulary Support**: double-click definitions, fully offline (Simple English Wiktionary) | ✅ v0.6.0 |
 | 7 | **Polish**: keyboard support, screen reader announcements, WCAG AA contrast, smaller permissions | ✅ v0.7.0 |
-| 8 | **Onboarding**: a first-run welcome that introduces the tools and the optional API key | 🗓 v0.8.0 |
-| 9 | **Polish + security audit**: more refinement, and a full security review before launch | 🗓 v0.9.0 |
-| 10 | **Launch**: the Chrome Web Store listing | 🗓 v1.0.0 |
+| 8 | **Onboarding**: a first-run welcome that introduces the tools and the optional API key | 🗓 [v0.8.0](https://github.com/clearpath-ext/clearpath-extension/milestone/1) |
+| 9 | **Polish + security audit**: more refinement, and a full security review before launch | 🗓 [v0.9.0](https://github.com/clearpath-ext/clearpath-extension/milestone/2) |
+| 10 | **Launch**: the Chrome Web Store listing | 🗓 [v1.0.0](https://github.com/clearpath-ext/clearpath-extension/milestone/3) |
 
 After v1.0: Firefox support and the Firefox Add-ons listing.
 
