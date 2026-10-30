@@ -12,8 +12,8 @@
   </p>
 
   <p>
-    <a href="https://github.com/clearpath-ext/clearpath-extension">
-      <img src="https://raw.githubusercontent.com/clearpath-ext/.github/main/profile/badges/extension-install.svg" alt="Install Extension"/>
+    <a href="https://clearpathext.com/install/">
+      <img src="https://raw.githubusercontent.com/clearpath-ext/.github/main/profile/badges/extension-install.svg" alt="Install the extension"/>
     </a>
     <a href="https://github.com/clearpath-ext/clearpath-extension/blob/main/CONTRIBUTING.md">
       <img src="https://raw.githubusercontent.com/clearpath-ext/.github/main/profile/badges/contributions-welcome.svg" alt="Contributions Welcome"/>
@@ -34,19 +34,23 @@ ClearPath bridges that gap — directly in the browser, on any site, with no acc
 
 No data collected. No server. No login. Everything stays in your browser.
 
+**Try it:** [download the latest release](https://github.com/clearpath-ext/clearpath-extension/releases/latest/download/clearpath-chrome.zip) for Chrome, Edge, Brave, Arc or Opera, and follow the [one-minute install steps](https://clearpathext.com/install/#install-download). The Chrome Web Store listing is coming soon; Firefox follows after Chrome.
+
 ---
 
 ## Roadmap
 
 | Phase | Feature | Status |
 |---|---|---|
-| 1 | 🔊 **Read Aloud** — TTS with word-by-word highlighting | ✅ v0.1.0 |
-| 2 | 🧠 **Simplify** — Plain language rewriting via LLM | ✅ v0.2.0 |
-| 3 | 📖 **Reading Mode** — Clutter-free view, dyslexia-friendly fonts, custom typography | ✅ v0.3.0 |
-| 4 | 🎯 **Focus Tools** — Reading ruler, paragraph dimming, word complexity | ✅ v0.4.0 |
-| 5 | 🖼️ **Symbol Overlay + Profiles** — AAC pictogram symbols; save & share settings | ✅ v0.5.0 |
-| 6 | 📚 **Vocabulary Support** — Double-click definitions, fully offline (Simple English Wiktionary) | 🗓 planned |
-| 7 | ✨ **Polish** — WCAG audit, Firefox, onboarding, Chrome & Firefox store launch | 🗓 planned |
+| 1 | **Read Aloud**: text-to-speech with word-by-word highlighting | ✅ v0.1.0 |
+| 2 | **Simplify**: plain-language rewriting with your own LLM key | ✅ v0.2.0 |
+| 3 | **Reading Mode**: clutter-free view, dyslexia-friendly fonts, custom typography | ✅ v0.3.0 |
+| 4 | **Focus Tools**: reading ruler, paragraph dimming, word complexity | ✅ v0.4.0 |
+| 5 | **Symbol Overlay + Profiles**: AAC pictogram symbols; save and share settings | ✅ v0.5.0 |
+| 6 | **Vocabulary Support**: double-click definitions, fully offline (Simple English Wiktionary) | ✅ v0.6.0 |
+| 7 | **Polish**: accessibility pass (shipped in v0.7.0), then Firefox, onboarding, and the store listings | 🚧 in progress |
+
+See the [release notes](https://github.com/clearpath-ext/clearpath-extension/releases) for what changed in each version.
 
 ---
 
@@ -54,9 +58,11 @@ No data collected. No server. No login. Everything stays in your browser.
 
 | Repo | Description |
 |---|---|
-| [clearpath-extension](https://github.com/clearpath-ext/clearpath-extension) | The main browser extension (Chrome + Firefox) |
-| [clearpath-web](https://github.com/clearpath-ext/clearpath-web) | Project website and documentation — [clearpathext.com](https://clearpathext.com) |
-| [.github](https://github.com/clearpath-ext/.github) | Org-wide community health files and this profile |
+| [clearpath-extension](https://github.com/clearpath-ext/clearpath-extension) | The browser extension (Chrome and Chromium browsers; Firefox planned) |
+| [clearpath-web](https://github.com/clearpath-ext/clearpath-web) | Project website and documentation: [clearpathext.com](https://clearpathext.com) |
+| [clearpath-community](https://github.com/clearpath-ext/clearpath-community) | Discussions, RFCs, and community coordination |
+| [.github](https://github.com/clearpath-ext/.github) | Org-wide community health files, brand assets, and this profile |
+| [clearpath-symbols](https://github.com/clearpath-ext/clearpath-symbols) | Archived: the symbols now ship inside the extension |
 
 ---
 
