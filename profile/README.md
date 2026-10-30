@@ -48,7 +48,8 @@ No data collected. No server. No login. Everything stays in your browser.
 | 4 | **Focus Tools**: reading ruler, paragraph dimming, word complexity | ✅ v0.4.0 |
 | 5 | **Symbol Overlay + Profiles**: AAC pictogram symbols; save and share settings | ✅ v0.5.0 |
 | 6 | **Vocabulary Support**: double-click definitions, fully offline (Simple English Wiktionary) | ✅ v0.6.0 |
-| 7 | **Polish**: accessibility pass (shipped in v0.7.0), then Firefox, onboarding, and the store listings | 🚧 in progress |
+| 7 | **Polish**: keyboard support, screen reader announcements, WCAG AA contrast, smaller permissions | ✅ v0.7.0 |
+| 8 | **Launch**: Chrome Web Store listing, first-run onboarding, Firefox support | 🗓 planned |
 
 See the [release notes](https://github.com/clearpath-ext/clearpath-extension/releases) for what changed in each version.
 
