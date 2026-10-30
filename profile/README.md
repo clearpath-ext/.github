@@ -49,7 +49,11 @@ No data collected. No server. No login. Everything stays in your browser.
 | 5 | **Symbol Overlay + Profiles**: AAC pictogram symbols; save and share settings | ✅ v0.5.0 |
 | 6 | **Vocabulary Support**: double-click definitions, fully offline (Simple English Wiktionary) | ✅ v0.6.0 |
 | 7 | **Polish**: keyboard support, screen reader announcements, WCAG AA contrast, smaller permissions | ✅ v0.7.0 |
-| 8 | **Launch**: Chrome Web Store listing, first-run onboarding, Firefox support | 🗓 planned |
+| 8 | **Onboarding**: a first-run welcome that introduces the tools and the optional API key | 🗓 v0.8.0 |
+| 9 | **Polish + security audit**: more refinement, and a full security review before launch | 🗓 v0.9.0 |
+| 10 | **Launch**: the Chrome Web Store listing | 🗓 v1.0.0 |
+
+After v1.0: Firefox support and the Firefox Add-ons listing.
 
 See the [release notes](https://github.com/clearpath-ext/clearpath-extension/releases) for what changed in each version.
 
